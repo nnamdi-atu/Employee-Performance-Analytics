@@ -16,6 +16,8 @@ The analysis explores:
 The goal is to provide **actionable insights** that can help HR and business leaders improve workforce efficiency, retention, leadership pipeline health, and ultimately customer experience.
 ---
 <img width="1350" height="771" alt="Screenshot 2025-09-28 210059" src="https://github.com/user-attachments/assets/a513e9c8-4b6c-478d-b310-61eb2f968e4c" />
+[🔗 **View the Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYTRiOGVkOTUtMDJhMi00ZmMwLWE3M2EtM2RhZDM4YzRmNDY4IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+
 
 ## 📈 Key Findings
 
